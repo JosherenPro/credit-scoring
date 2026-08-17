@@ -1,0 +1,13 @@
+.venv/
+.agents/
+.codex/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+data/raw/
+data/interim/
+data/processed/
+models/
+reports/
+*.egg-info/
